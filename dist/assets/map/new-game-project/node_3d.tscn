@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=3 uid="uid://c2byjsgrh1r6g"]
+
+[ext_resource type="ArrayMesh" uid="uid://cfgdxqjl4utdl" path="res://output/untitled.obj" id="1_gjaif"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="Untitled" type="MeshInstance3D" parent="."]
+mesh = ExtResource("1_gjaif")
+
+[node name="OmniLight3D2" type="OmniLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.3, -2)
+
+[node name="OmniLight3D3" type="OmniLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.2, 2.3, 1.1)

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cfdwf7acq6t1u"
+path="res://.godot/imported/FloorOrCeiling.obj-e746d03fe932f8c0a216a7316cc45ea9.mesh"
+
+[deps]
+
+files=["res://.godot/imported/FloorOrCeiling.obj-e746d03fe932f8c0a216a7316cc45ea9.mesh"]
+
+source_file="res://DomesticAssetsPackage/Models/FloorOrCeiling.obj"
+dest_files=["res://.godot/imported/FloorOrCeiling.obj-e746d03fe932f8c0a216a7316cc45ea9.mesh", "res://.godot/imported/FloorOrCeiling.obj-e746d03fe932f8c0a216a7316cc45ea9.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

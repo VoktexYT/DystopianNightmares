@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dc8in86l73imy"
+path="res://.godot/imported/WallTrim.obj-b544e204cbcd3ec5099e02d2bb8c6eda.mesh"
+
+[deps]
+
+files=["res://.godot/imported/WallTrim.obj-b544e204cbcd3ec5099e02d2bb8c6eda.mesh"]
+
+source_file="res://DomesticAssetsPackage/Models/WallTrim.obj"
+dest_files=["res://.godot/imported/WallTrim.obj-b544e204cbcd3ec5099e02d2bb8c6eda.mesh", "res://.godot/imported/WallTrim.obj-b544e204cbcd3ec5099e02d2bb8c6eda.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

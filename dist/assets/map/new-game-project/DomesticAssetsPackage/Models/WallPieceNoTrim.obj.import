@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://byrpsc2gcn07v"
+path="res://.godot/imported/WallPieceNoTrim.obj-ca29691fdf99e183f9ced532b80d92f9.mesh"
+
+[deps]
+
+files=["res://.godot/imported/WallPieceNoTrim.obj-ca29691fdf99e183f9ced532b80d92f9.mesh"]
+
+source_file="res://DomesticAssetsPackage/Models/WallPieceNoTrim.obj"
+dest_files=["res://.godot/imported/WallPieceNoTrim.obj-ca29691fdf99e183f9ced532b80d92f9.mesh", "res://.godot/imported/WallPieceNoTrim.obj-ca29691fdf99e183f9ced532b80d92f9.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
